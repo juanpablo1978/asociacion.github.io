@@ -7,7 +7,7 @@ El propósito es realizar un repaso por su historia a través de fotos, video y 
 
 ## Secciones de la landing
 
-1. HOME: es una bienenida al proyecto en idiomas castellano y español, con fotos y video institucional.
+1. HOME: es una bienenida al proyecto en idiomas castellano y polaco, con fotos y video institucional.
 
 3. AGENDA: es una cartelera en formato modal, donde el usuario puede ver las diferentes actividades que se realizan en la asociación o eventos en los que participa.
 
